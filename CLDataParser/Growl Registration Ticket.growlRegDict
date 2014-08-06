@@ -1,0 +1,28 @@
+<plist version="1.0">
+    <dict>
+		<key>TicketVersion</key>
+		<integer>1</integer>
+		<key>AllNotifications</key>
+		<array>
+			<string>Player starts clanning</string>
+			<string>Player stops clanning</string>
+			<string>Example (Sticky)</string>
+			<string>Example (Non-Sticky)</string>
+			<string>/status</string>
+			<string>Congratulations</string>
+			<string>Koppi</string>
+			<string>Crius</string>
+		</array>
+		<key>DefaultNotifications</key>
+		<array>
+			<string>Player starts clanning</string>
+			<string>Player stops clanning</string>
+			<string>Example (Sticky)</string>
+			<string>Example (Non-Sticky)</string>
+			<string>/status</string>
+			<string>Congratulations</string>
+			<string>Koppi</string>
+			<string>Crius</string>
+		</array>
+    </dict>
+</plist>

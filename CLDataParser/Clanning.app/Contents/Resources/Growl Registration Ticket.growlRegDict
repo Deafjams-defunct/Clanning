@@ -1,0 +1,14 @@
+<plist version="1.0">
+    <dict>
+		<key>TicketVersion</key>
+		<integer>1</integer>
+		<key>AllNotifications</key>
+		<array>
+			<string>Player starts clanning</string>
+		</array>
+		<key>DefaultNotifications</key>
+		<array>
+			<string>Player starts clanning</string>
+		</array>
+    </dict>
+</plist>
